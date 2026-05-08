@@ -1,6 +1,13 @@
-## Hi there 👋
+## Saudações 👋
 Meu nome é Elton, Atualmente estou cursando Engenharia de software, estou no primeiro semestre!
-Trilhando minha jornada academica no Centro Universitário de Brasília
+
+Estou trilhando minha jornada academica no Centro Universitário de Brasília (CEUB).
+
+Atualmente tenho apenas conhecimentos básicos com linguagens de programação.
+
+• Python
+
+• Modelagem de Banco de dados
 <!--
 **EltonVLopes/EltonVLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
