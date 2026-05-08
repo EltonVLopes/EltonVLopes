@@ -5,6 +5,7 @@ Estou trilhando minha jornada academica no Centro Universitário de Brasília (C
 
 Atualmente tenho apenas conhecimentos básicos com linguagens de programação.
 
+<strong> Ferramentas: </strong>
 • Python <br>
 • Modelagem de Banco de dados
 <!--
