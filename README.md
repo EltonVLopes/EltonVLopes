@@ -1,5 +1,6 @@
 ## Hi there 👋
 Meu nome é Elton, Atualmente estou cursando Engenharia de software, estou no primeiro semestre!
+Trilhando minha jornada academica no Centro Universitário de Brasília
 <!--
 **EltonVLopes/EltonVLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
