@@ -5,8 +5,7 @@ Estou trilhando minha jornada academica no Centro Universitário de Brasília (C
 
 Atualmente tenho apenas conhecimentos básicos com linguagens de programação.
 
-• Python
-
+• Python <br>
 • Modelagem de Banco de dados
 <!--
 **EltonVLopes/EltonVLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
