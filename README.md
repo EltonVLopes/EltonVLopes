@@ -13,7 +13,7 @@ Atualmente tenho apenas conhecimentos básicos com linguagens de programação.
 
 ##
 
-Contatos
+Contatos:
 
 <a href="https://www.linkedin.com/in/elton-eduardo-viana-lopes-8904783b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
