@@ -1,19 +1,13 @@
 ## Saudações 👋
-Meu nome é Elton, Atualmente estou cursando Engenharia de software, estou no primeiro semestre!
+Meu nome é Elton, gosto de tecnologia, e sempre tive a curiosidade de começar a programar.
 
-Estou trilhando minha jornada academica no Centro Universitário de Brasília (CEUB).
+🖋️ Estou trilhando minha jornada academica no Centro Universitário de Brasília (CEUB), Atualmente estou no 1 semestre! 
 
-Atualmente tenho apenas conhecimentos básicos com linguagens de programação.
-
-##
-<strong> Ferramentas: </strong> <br>
+## <strong> Ferramentas: </strong> <br>
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-• Modelagem de Banco de dados
 
-##
-
-Contatos:
+## Contatos:
 
 <a href="https://www.linkedin.com/in/elton-eduardo-viana-lopes-8904783b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
