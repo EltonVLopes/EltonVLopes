@@ -1,7 +1,7 @@
 ## Saudações 👋
 Meu nome é Elton, gosto de tecnologia, e sempre tive a curiosidade de começar a programar.
 
-🖋️ Estou trilhando minha jornada academica no Centro Universitário de Brasília (CEUB), Cursando Engenharia de Software, Atualmente estou no 1 semestre! 
+🖋️ Estou trilhando minha jornada academica no Centro Universitário de Brasília (CEUB), Cursando Engenharia de Software, Atualmente estou no 2 semestre! 
 
 ## <strong> Ferramentas: </strong> <br>
 
